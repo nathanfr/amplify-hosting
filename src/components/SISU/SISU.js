@@ -3,7 +3,7 @@ import React, { Component } from 'react';
 class SISU extends Component {
     render() {
         return (
-            <div>
+            <div className="SISUContainer">
                 <p>Placeholder</p>
             </div>
         )
