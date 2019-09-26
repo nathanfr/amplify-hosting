@@ -1,7 +1,8 @@
 import React from 'react';
 
 // My components
-import SISU from './components/SISU/SISU';
+// import SISU from './components/SISU/SISU';
+import Bootstrap from './components/Bootstrap/Bootstrap';
 
 // Styling
 import './App.css'
@@ -9,7 +10,7 @@ import './App.css'
 function App() {
   return (
     <div className="App">
-      <SISU />
+      <Bootstrap />
     </div>
   );
 }
