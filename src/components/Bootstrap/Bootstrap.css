@@ -3,3 +3,7 @@
     background-size: cover;
     background-position: center;
 }
+
+form, .form-label {
+    text-align: left;
+}
